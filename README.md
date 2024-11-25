@@ -1,10 +1,30 @@
+# Prosiding STIS
 
-# In the Name of Allah, the Most Beneficent, the Most Merciful.
+frontend website hasil perancangan ulang antarmuka https://prosiding.stis.ac.id/index.php/semnasoffstat yang dibangun menggunakan **Open Journal System**. Hanya untuk tugas mata kuliah IMK.
 
-### Zone - Multipurpose-Landing-Page-UI-Kit-
-Zone - Multipurpose Landing Page + UI Kit 
+## Cara Penggunaan?
 
-https://zone-ui.vercel.app/
-### ENJOY 🎉🤩🔥
+**Clone / download repository**
 
+```shell
+# Clone Repository
+$ git clone https://github.com/nym570/prosiding.git
+```
 
+**Masuk ke folder proyek dan install dependensi**
+
+```shell
+# install dependency
+$ npm install
+```
+
+**Jalankan proyek**
+
+```shell
+# Pengembangan lokal
+$ npm run dev
+```
+```shell
+# Pengembangan produksi
+$ npm run build
+```
